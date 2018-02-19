@@ -16,6 +16,9 @@
 
 Процедура Главная()
 
+	// Обязательно прочтите статью про COM-объекты
+	// http://helpme1c.ru/ispolzovanie-com-obektov-v-onescript
+
 	Запрос = v8.NewObject("Запрос");
 	 
 	Запрос.Текст = "
